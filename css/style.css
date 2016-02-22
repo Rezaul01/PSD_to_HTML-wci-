@@ -1,0 +1,30 @@
+body{
+	font-family: 'Raleway', sans-serif;
+}
+
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.nav {
+    padding-top: 14px;
+}
+
+.navbar-nav>li {
+    padding-left:12px;
+}
+
+.navbar-default .navbar-nav>li>a{
+    font-size:14px;
+	font-weight:400;
+	color:#161616;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color:#36d7b7;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #36d7b7;
+}
